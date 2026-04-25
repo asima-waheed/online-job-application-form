@@ -32,4 +32,4 @@ A modern, clean, and fully responsive job application form built using HTML5 and
 - **CSS3:** Used for custom styling, layout positioning, and Media Queries to handle responsiveness.
 
 ## 🚀 Live Demo
-[Insert your Vercel deployment link here]
+[Live Preview 🌐] (https://online-job-application-form.vercel.app/)
